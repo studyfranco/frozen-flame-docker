@@ -1,3 +1,9 @@
+<div align="center">
+![Github stars](https://badgen.net/github/stars/studyfranco/frozen-flame-docker?icon=github&label=stars)
+![Github forks](https://badgen.net/github/forks/studyfranco/frozen-flame-docker?icon=github&label=forks)
+![Github issues](https://img.shields.io/github/issues/studyfranco/frozen-flame-docker)
+![Github last-commit](https://img.shields.io/github/last-commit/studyfranco/frozen-flame-docker)
+</div>
 # Frozen Flame Dedicated Server
 
 Hello and welcome! Hopefully this can help anyone get up and running with Frozen Flame!
