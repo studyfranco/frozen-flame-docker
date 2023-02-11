@@ -22,7 +22,7 @@ version: "3.7"
 services:
   frozen_flame:
     container_name: frozen-flame-server
-    image: ghcr.io/ragingdave/frozen-flame-docker:main
+    image: ghcr.io/studyfranco/frozen-flame-docker:main
     #network_mode: "host"
     volumes:
       - "/path/to/config:/config"
