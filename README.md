@@ -84,3 +84,6 @@ This is currently using the host network simplicity but you should be able to ma
 | `MAXPLAYERS`            |    `10`   | set the player limit for your server                |
 | `PGID`                  |   `1000`  | set the group ID of the user the server will run as |
 | `PUID`                  |   `1000`  | set the user ID of the user the server will run as  |
+
+## Last Update
+2025-12-20
