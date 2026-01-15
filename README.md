@@ -86,4 +86,4 @@ This is currently using the host network simplicity but you should be able to ma
 | `PUID`                  |   `1000`  | set the user ID of the user the server will run as  |
 
 ## Last Update
-2025-12-20
+2026-01-15
